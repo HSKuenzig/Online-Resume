@@ -1,0 +1,14 @@
+@import "components/contact.css";
+@import "components/header/header.css";
+
+
+h1 {
+    color: rgb(190, 72, 72);
+    font-family: 'Arial', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+

@@ -1,0 +1,15 @@
+.headline {
+    color: rgb(190, 72, 72);
+    font-family: 'Calibri', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 40px;
+}
+.headline:hover span{
+    display: none;
+
+}
+.headline:hover::before{
+    content: "Lebenslauf";
+
+}
